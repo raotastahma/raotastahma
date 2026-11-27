@@ -1,6 +1,6 @@
 # Rustam Khaybulin
 
-I lead product teams and build software. My work spans hotel metasearch, marketplaces, browser extensions and AI products in Telegram.
+I lead product teams, run operations, and build software. My work spans hotel metasearch, marketplaces, browser extensions, AI products and bots.
 
 | Project | What you can do |
 | --- | --- |
